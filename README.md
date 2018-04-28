@@ -11,4 +11,5 @@ yarn add typography
 * 프로젝트 사용 기술
 express, react, sass, git
 
-* 
+* server 
+session, bodyParser
